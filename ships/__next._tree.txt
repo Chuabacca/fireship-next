@@ -5,4 +5,4 @@
 :HL["https://lumiere-a.akamaihd.net/v1/images/razor-crest-main_2f9bb13b.jpeg?region=316%2C7%2C897%2C504","image"]
 :HL["https://lumiere-a.akamaihd.net/v1/images/tie-interceptor-2_b2250e79.jpeg?region=0%2C42%2C1560%2C879","image"]
 :HL["https://lumiere-a.akamaihd.net/v1/images/X-Wing-Fighter_47c7c342.jpeg?region=0%2C1%2C1536%2C864","image"]
-0:{"buildId":"segChWUlHTrgr9PlStqfG","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"ships","paramType":null,"paramKey":"ships","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"QHqUxQcVuxFGAVWKnvDPQ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"ships","paramType":null,"paramKey":"ships","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
