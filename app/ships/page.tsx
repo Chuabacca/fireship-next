@@ -32,7 +32,7 @@ export default async function GalleryPage() {
               />
             </div>
             <div className='p-4 bg-white'>
-              <h2 className='text-2xl text-gray-700 font-bold capitalize'>{ship.id.replace(/-/g, ' ')}</h2>
+              <h2 className='text-2xl text-gray-500 font-bold capitalize'>{ship.id.replace(/-/g, ' ')}</h2>
               <p className='text-gray-500'>{ship.faction}</p>
             </div>
           </Link>
